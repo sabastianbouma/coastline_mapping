@@ -1,0 +1,14 @@
+name: coastline
+channels:
+  - esri
+  - conda-forge
+dependencies:
+  - python=3.11
+  - arcgis
+  - pandas
+  - jupyterlab
+  - ipykernel
+  - nbstripout
+  - pip
+  - pip:
+      - -e .
