@@ -3,7 +3,7 @@ channels:
   - esri
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.13
   - arcgis
   - pandas
   - jupyterlab
@@ -11,5 +11,6 @@ dependencies:
   - nbstripout
   - pip
   - arcpy
+  - anywidget
   - pip:
       - -e .

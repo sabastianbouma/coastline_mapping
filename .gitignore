@@ -80,6 +80,7 @@ target/
 .ipynb_checkpoints
 
 # Local geospatial data and generated analysis outputs
+arcgis_project/*
 data/raw/*
 !data/raw/.gitkeep
 data/processed/*
