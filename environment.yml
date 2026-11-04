@@ -10,5 +10,6 @@ dependencies:
   - ipykernel
   - nbstripout
   - pip
+  - arcpy
   - pip:
       - -e .
